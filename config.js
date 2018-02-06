@@ -1,7 +1,7 @@
-var api = 'http://explorer.mining.blue/domain';
-var blockTargetInterval = 120;
-var coinUnits = 1000000000000;
-var symbol = 'XBB';
+var api = 'http://xlv.world:12023';
+var blockTargetInterval = 100;
+var coinUnits = 18446744;
+var symbol = 'XLV';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
